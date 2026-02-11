@@ -33,8 +33,11 @@ Input (224x224x3) → Pretrained CNN → Global Pooling → Dense (ReLU) → Dro
 ## Dataset Structure
 
 Dataset/
+
 ├── Train/
+
 ├── Validation/
+
 └── Test/
 
 Each contains:
