@@ -1,0 +1,16 @@
+# Dataset
+Dataset/
+Dataset.zip
+
+# Extra notebooks
+load.ipynb
+source_code.ipynb
+
+# Images
+*.jpg
+*.png
+*.webp
+
+# Models
+model/
+*.h5
