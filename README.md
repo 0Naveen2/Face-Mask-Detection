@@ -51,9 +51,13 @@ Each contains:
 ## Project Files
 
 train_model.ipynb # training
+
 load.py # prediction
+
 requirements.txt
+
 .gitignore
+
 README.md
 
 ---
